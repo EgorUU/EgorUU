@@ -25,7 +25,7 @@
 
 <h2>Самые Лучшие Проекты</h2>
 
-<a href="/">link</a>
+<a href="/" style="text-decoration: none">link</a>
 
 <h2>Моя Статистика</h2>
 
