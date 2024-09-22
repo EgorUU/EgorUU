@@ -25,7 +25,7 @@
 
 <h2>Самые Лучшие Проекты</h2>
 
-<a href="/" style="text-decoration: none">link</a>
+[Перейти на GitHub](https://github.com)
 
 <h2>Моя Статистика</h2>
 
