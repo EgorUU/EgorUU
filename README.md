@@ -13,10 +13,13 @@
 <img src="./иконки/html.svg" width="50" height="50">
 <img src="./иконки/file_type_css_icon_130661.svg" width="50" height="50" hspace="10">
 <img src="./иконки/sass_original_logo_icon_146350.svg" width="50" height="50" hspace="10">
+<img src="./иконки/bootstrap-svgrepo-com.svg" width="50" height="50" hspace="10">
 <img src="./иконки/javascript_icon_130900.svg" width="50" height="50" hspace="10">
 <img src="./иконки/react_original_wordmark_logo_icon_146375.svg" width="50" height="50" hspace="10">
+<img src="./иконки/redux-white.svg" width="50" height="50" hspace="10">
 <img src="./иконки/typescript_original_logo_icon_146317.svg" width="50" height="50" hspace="10">
 <img src="./иконки/node_icon_196185.svg" width="50" height="50" hspace="10">
+<img src="./иконки/mysql-svgrepo-com.svg" width="50" height="50" hspace="10">
 <img src="./иконки/github_original_wordmark_logo_icon_146506.svg" width="50" height="50" hspace="10">
 </div>
 <h2>Моя Статистика</h2>
