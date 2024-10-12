@@ -29,6 +29,9 @@
   <li type="none"></li>
   <li></li>
   <li>[]</li>
+  &nbsp
+  &nbsp
+  &nbsp
   <li></li>
 </ul>
 
