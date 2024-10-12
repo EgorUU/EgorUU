@@ -23,12 +23,11 @@
 <img src="./иконки/github_original_wordmark_logo_icon_146506.svg" width="50" height="50" hspace="10">
 </div>
 
-1. w
-2. 2
-3. 2
-4. 2
-5. 2
-6. 
+* 321
+* 321
+* 321
+* 321
+
 
 
 
