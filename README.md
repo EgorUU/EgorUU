@@ -26,7 +26,7 @@
 <ul>
   <li></li>
   <li></li>
-  <li></li>
+  <li type="none"></li>
   <li></li>
   <li>[]</li>
   <li></li>
