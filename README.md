@@ -25,6 +25,13 @@
 
 <h1>Мои Самые Лучшие Проекты</h1>
 
+<style type="text/css>
+  a {
+  color: blue !important; /* Задаем цвет ссылки */
+  text-decoration: none !important; /* Убираем подчеркивание */
+}
+</style>
+
 [Текст ссылки](http://example.com)
 
 <h2>Моя Статистика</h2>
