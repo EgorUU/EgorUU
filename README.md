@@ -25,7 +25,7 @@
 
 <h1>Мои Самые Лучшие Проекты</h1>
 
-[текст ссылки][example]" и "[example]: http://example.com/
+[текст ссылки][example] и [example]: http://example.com/
 
 <h2>Моя Статистика</h2>
 
