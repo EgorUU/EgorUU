@@ -23,12 +23,8 @@
 <img src="./иконки/github_original_wordmark_logo_icon_146506.svg" width="50" height="50" hspace="10">
 </div>
 
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
+
+<div height="100" width="10"></div>
 
 
 
