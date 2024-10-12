@@ -23,7 +23,11 @@
 <img src="./иконки/github_original_wordmark_logo_icon_146506.svg" width="50" height="50" hspace="10">
 </div>
 
-<h1>Мои Самые Лучшие Проекты</h1>
+
+
+
+
+<h2 align="center>Мои Самые Лучшие Проекты</h2>
 
 <h3><a href="https://github.com/EgorUU/Todolist-react-ts">TodoList</a></h3>
 <p>
