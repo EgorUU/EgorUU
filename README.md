@@ -27,7 +27,7 @@
 
 
 
-<h2 align="center>Мои Самые Лучшие Проекты</h2>
+<h2 align="center">Мои Самые Лучшие Проекты</h2>
 
 <h3><a href="https://github.com/EgorUU/Todolist-react-ts">TodoList</a></h3>
 <p>
