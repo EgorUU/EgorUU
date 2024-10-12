@@ -25,15 +25,8 @@
 
 
 <br><br>
-
-
-
-
-
-
-
 <h1 align="center">Мои Самые Лучшие Проекты</h1>
-
+<br>
 <h3><a href="https://github.com/EgorUU/Todolist-react-ts">TodoList</a></h3>
 <p>
   Простой Сайт Отслеживания Задач без Сохранения Задач так отсутствует поддержка БД.
@@ -70,7 +63,7 @@
   В конце можете увидеть свой результат.
 </p>
 <h2 align="center"></h2>
-
+<br><br>
 <h2>Моя Статистика</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
