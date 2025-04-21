@@ -47,7 +47,7 @@
 <h3><a href="https://github.com/EgorUU/Currency-Converter">Currency Converter</a></h3>
 <p>
   Конвертер валют - сайт где можно получить данные о цене почти любой валюты.
-  Также можно посмотреть на график изменения курса валюты за целый месяц.
+  Также можно посмотреть на график изменения курса валюты за последние 7 дней.
 </p>
 <h2 align="center"></h2>
 <h3><a href="https://github.com/EgorUU/E-commerce">E-commerce</a></h3>
