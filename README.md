@@ -29,6 +29,8 @@
 <h3><a href="https://github.com/EgorUU/Chat">Messager</a></h3>
 <p>
   Простой Общий чат где можно переписываться с любым пользователем, но для начала нужно зарегистрироваться или войти уже в существующий аккаунт.
+
+  Стек: NExtjs
 </p>
 <h2 align="center"></h2>
 <h3><a href="https://github.com/EgorUU/Todolist-react-ts">TodoList</a></h3>
